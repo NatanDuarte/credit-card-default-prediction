@@ -27,3 +27,15 @@ pip install requirements.txt
 ```
 
 pronto, agora basta execurtar o notebook.
+
+### Com Anaconda (Windows)
+
+Crie o environment a partir do arquivo e ative com os seguintes comandos
+
+```shell
+conda env create -f environment.yml
+
+conda activate nome_do_ambiente
+```
+
+Ou carregue o arquivo `.yml` via *Anaconda Navigator*
