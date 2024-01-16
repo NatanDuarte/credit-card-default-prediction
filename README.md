@@ -12,7 +12,7 @@
     <!-- Scikit-learn -->
     <img alt="scikit-learn" src="https://img.shields.io/badge/sklearn-FFFFFF?style=flat&labelColor=000000&color=FFFFFF&logo=scikitlearn&logoColor=1ED760&">
     <!-- Status -->
-    <img alt="status" src="https://img.shields.io/badge/Status-Em%desenvolvimento-FFFFFF?style=flat&logoColor=1ED760&labelColor=000000">
+    <img alt="status" src="https://img.shields.io/badge/Status-Em desenvolvimento-FFFFFF?style=flat&logoColor=1ED760&labelColor=000000">
 </p>
 
 
